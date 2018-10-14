@@ -1,4 +1,2 @@
 git branch Test
 recording index status
-add branch Test_branch
-to get contents from remote resp
