@@ -1,2 +1,2 @@
 git branch Test
-add branch Test_branch
+recording index status
